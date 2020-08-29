@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-annotation-demo01" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-annotation-demo02" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-annotation-demo03" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-annotation-demo04" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-annotation-exec01" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-annotation-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-demo02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-demo03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-demo04/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-exec01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-factory-bean-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-conditional-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-import-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-componentscan-filter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-bean-test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

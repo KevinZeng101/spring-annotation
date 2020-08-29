@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-annotation-factory-bean-test" />
+        <module name="spring-annotation-conditional-test" />
+        <module name="spring-annotation-componentscan-filter-test" />
+        <module name="spring-annotation-import-test" />
+        <module name="spring-annotation-bean-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-annotation-bean-test" target="1.8" />
+      <module name="spring-annotation-componentscan-filter-test" target="1.8" />
+      <module name="spring-annotation-conditional-test" target="1.8" />
+      <module name="spring-annotation-demo01" target="1.8" />
+      <module name="spring-annotation-demo02" target="1.8" />
+      <module name="spring-annotation-demo03" target="1.8" />
+      <module name="spring-annotation-demo04" target="1.8" />
+      <module name="spring-annotation-exec01" target="1.8" />
+      <module name="spring-annotation-factory-bean-test" target="1.8" />
+      <module name="spring-annotation-import-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-annotation-bean-test" options="-parameters" />
+      <module name="spring-annotation-componentscan-filter-test" options="-parameters" />
+      <module name="spring-annotation-conditional-test" options="-parameters" />
+      <module name="spring-annotation-factory-bean-test" options="-parameters" />
+      <module name="spring-annotation-import-test" options="-parameters" />
+    </option>
+  </component>
+</project>

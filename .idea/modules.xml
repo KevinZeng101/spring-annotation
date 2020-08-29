@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation-bean-test/spring-annotation-bean-test.iml" filepath="$PROJECT_DIR$/spring-annotation-bean-test/spring-annotation-bean-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation-componentscan-filter-test/spring-annotation-componentscan-filter-test.iml" filepath="$PROJECT_DIR$/spring-annotation-componentscan-filter-test/spring-annotation-componentscan-filter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation-conditional-test/spring-annotation-conditional-test.iml" filepath="$PROJECT_DIR$/spring-annotation-conditional-test/spring-annotation-conditional-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation-factory-bean-test/spring-annotation-factory-bean-test.iml" filepath="$PROJECT_DIR$/spring-annotation-factory-bean-test/spring-annotation-factory-bean-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation-import-test/spring-annotation-import-test.iml" filepath="$PROJECT_DIR$/spring-annotation-import-test/spring-annotation-import-test.iml" />
+    </modules>
+  </component>
+</project>
